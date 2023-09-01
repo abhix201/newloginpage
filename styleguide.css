@@ -1,0 +1,9 @@
+:root {
+  --primary-blue: rgba(45, 85, 180, 1);
+  --secondary-blue: rgba(239, 242, 251, 1);
+  --primary-grey: rgba(56, 57, 60, 1);
+  --secondary-grey: rgba(171, 174, 183, 1);
+  --primary-green: rgba(156, 236, 91, 1);
+  --white: rgba(255, 255, 255, 1);
+  --tertiary-blue: rgba(192, 194, 201, 1);
+}
